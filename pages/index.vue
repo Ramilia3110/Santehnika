@@ -4,7 +4,7 @@
      <div class="container">
          <Services/>  
      </div>
-        <Photogallery/>
+        <Photogallery/> 
      <div class="container">
         <Benefits />
       </div>   

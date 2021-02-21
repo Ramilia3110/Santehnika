@@ -31,12 +31,7 @@
        </ul>
      </div>
     </div>
-    
-<!--       
-        0501 544 888
-0770 544 888
-0990 544 888 --> 
-       
+           
 
   </div>
 </template>
@@ -82,7 +77,7 @@ export default {
 
 .text-content{
   position: absolute;
-  left: 12.5%;
+  left: 2.8%;
   top: 30%;
    z-index: 3;
 }

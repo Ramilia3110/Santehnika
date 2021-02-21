@@ -1,6 +1,7 @@
 <template>
   <div class="benefits">
-     <h3>Наши преимущества</h3>
+    <div class="container">
+       <h3>Наши преимущества</h3>
      <div class="benefits-box">
 
           <ul class="benefitslist">
@@ -46,6 +47,7 @@
             <li>Починим все за один выезд </li>
           </ul>
      </div>
+    </div>
   </div>
 </template>
 
